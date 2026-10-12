@@ -1,11 +1,5 @@
 # JavaScript Practice Sheet
 
-Practice questions for:
-
-- Class 12: Introduction to JavaScript (data types, variables, basic operations)
-- Class 13: Arrays, Strings and Functions
-- Class 14: Execution Context in JS with Hoisting
-
 ## How to use
 
 1. Attempt Part A (MCQs) without running any code, then check the answer key at the end of Part A.
